@@ -1,0 +1,214 @@
+2025-06-04 15:19:34,860 - Research Agent - INFO - Logging to file: data\logs\research_agent_20250604_151934.log
+2025-06-04 15:19:34,861 - Research Agent - INFO - Starting new task: What are the latest developments in large language models in 2024?
+2025-06-04 15:19:34,861 - Research Agent - INFO - Planning phase started
+2025-06-04 15:19:34,862 - Research Agent - INFO - Planning phase started
+2025-06-04 15:19:34,862 - Research Agent - INFO - Execution phase started
+2025-06-04 15:19:34,863 - Research Agent - INFO - Executing step: PlanStep(objective='Initialize research session', status='pending', start_time=None, end_time=None)
+2025-06-04 15:19:34,866 - Research Agent - INFO - Executing step: PlanStep(objective='Initialize research session', status='pending', start_time=None, end_time=None)
+2025-06-04 15:19:34,866 - Research Agent - INFO - Executing step: PlanStep(objective='Gather diverse sources', status='pending', start_time=None, end_time=None)
+2025-06-04 15:19:34,867 - Research Agent - INFO - Executing step: PlanStep(objective='Gather diverse sources', status='pending', start_time=None, end_time=None)
+2025-06-04 15:19:34,867 - Research Agent - INFO - Searching for category academic with query: What are the latest developments in large language models in 2024? site:arxiv.org OR site:research.google.com OR site:openai.com/research
+2025-06-04 15:19:37,851 - Research Agent - INFO - Search successful for query: What are the latest developments in large language models in 2024? site:arxiv.org OR site:research.google.com OR site:openai.com/research
+2025-06-04 15:19:37,851 - Research Agent - INFO - Found 15 results for query: What are the latest developments in large language models in 2024? site:arxiv.org OR site:research.google.com OR site:openai.com/research
+2025-06-04 15:19:37,852 - Research Agent - INFO - Added source: https://arxiv.org/abs/2409.10146
+2025-06-04 15:19:37,852 - Research Agent - INFO - Added source: https://arxiv.org/html/2402.02420v2
+2025-06-04 15:19:37,853 - Research Agent - INFO - Added source: https://arxiv.org/pdf/2405.17935?
+2025-06-04 15:19:37,853 - Research Agent - INFO - Added source: https://arxiv.org/abs/2407.14962
+2025-06-04 15:19:37,853 - Research Agent - INFO - Added source: http://arxiv.org/pdf/2307.06435
+2025-06-04 15:19:37,853 - Research Agent - INFO - Added source: https://arxiv.org/html/2407.14962v5
+2025-06-04 15:19:37,853 - Research Agent - INFO - Added source: https://arxiv.org/abs/2402.02420
+2025-06-04 15:19:37,853 - Research Agent - INFO - Added source: https://arxiv.org/html/2304.00008v5
+2025-06-04 15:19:37,854 - Research Agent - INFO - Added source: https://arxiv.org/abs/2409.03274
+2025-06-04 15:19:37,854 - Research Agent - INFO - Added source: https://arxiv.org/pdf/2412.03772
+2025-06-04 15:19:37,854 - Research Agent - INFO - Added source: https://arxiv.org/html/2412.04503v1
+2025-06-04 15:19:37,855 - Research Agent - INFO - Added source: https://arxiv.org/html/2412.03772
+2025-06-04 15:19:37,855 - Research Agent - INFO - Added source: https://arxiv.org/html/2504.00125v1
+2025-06-04 15:19:37,855 - Research Agent - INFO - Added source: https://arxiv.org/html/2411.03350v1
+2025-06-04 15:19:37,855 - Research Agent - INFO - Added source: https://arxiv.org/abs/2402.06196
+2025-06-04 15:19:37,855 - Research Agent - INFO - Searching for category tech_blog with query: What are the latest developments in large language models in 2024? site:ai.googleblog.com OR site:openai.com/blog OR site:huggingface.co/blog
+2025-06-04 15:19:39,610 - Research Agent - INFO - Search successful for query: What are the latest developments in large language models in 2024? site:ai.googleblog.com OR site:openai.com/blog OR site:huggingface.co/blog
+2025-06-04 15:19:39,610 - Research Agent - INFO - Found 15 results for query: What are the latest developments in large language models in 2024? site:ai.googleblog.com OR site:openai.com/blog OR site:huggingface.co/blog
+2025-06-04 15:19:39,612 - Research Agent - INFO - Added source: https://huggingface.co/blog/codys12/rl-2025
+2025-06-04 15:19:39,612 - Research Agent - INFO - Added source: https://huggingface.co/blog/gigant/vlm-design
+2025-06-04 15:19:39,613 - Research Agent - INFO - Added source: https://huggingface.co/blog/royswastik/reinforcement-learning-for-llms
+2025-06-04 15:19:39,613 - Research Agent - INFO - Added source: https://huggingface.co/blog/vlms-2025
+2025-06-04 15:19:39,614 - Research Agent - INFO - Added source: https://huggingface.co/blog/Kseniase/mcp
+2025-06-04 15:19:39,614 - Research Agent - INFO - Added source: https://huggingface.co/blog/wolfram/llm-comparison-test-2024-12-04
+2025-06-04 15:19:39,614 - Research Agent - INFO - Added source: https://huggingface.co/blog/haritzpuerto/problem-solving-with-language-models
+2025-06-04 15:19:39,614 - Research Agent - INFO - Added source: https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html
+2025-06-04 15:19:39,615 - Research Agent - INFO - Added source: https://ai.googleblog.com/2022/11/better-language-models-without-massive.html
+2025-06-04 15:19:39,615 - Research Agent - INFO - Added source: https://huggingface.co/blog/lynn-mikami/llm-free
+2025-06-04 15:19:39,615 - Research Agent - INFO - Added source: https://huggingface.co/blog/Kseniase/inference
+2025-06-04 15:19:39,616 - Research Agent - INFO - Added source: https://huggingface.co/blog/aovabo/simple-guide-how-ai-really-works
+2025-06-04 15:19:39,616 - Research Agent - INFO - Added source: https://huggingface.co/blog/sted97/alert
+2025-06-04 15:19:39,616 - Research Agent - INFO - Added source: https://huggingface.co/blog/leaderboard-emissions-analysis
+2025-06-04 15:19:39,617 - Research Agent - INFO - Added source: https://huggingface.co/blog/aaditya/openbiollm
+2025-06-04 15:19:39,617 - Research Agent - INFO - Searching for category news with query: What are the latest developments in large language models in 2024? site:medium.com OR site:towardsdatascience.com
+2025-06-04 15:19:41,363 - Research Agent - INFO - Search successful for query: What are the latest developments in large language models in 2024? site:medium.com OR site:towardsdatascience.com
+2025-06-04 15:19:41,363 - Research Agent - INFO - Found 15 results for query: What are the latest developments in large language models in 2024? site:medium.com OR site:towardsdatascience.com
+2025-06-04 15:19:41,365 - Research Agent - INFO - Added source: https://medium.com/@yousra.aoudi/advancements-in-large-language-models-llms-transforming-ai-capabilities-in-2024-666f4d243012
+2025-06-04 15:19:41,366 - Research Agent - INFO - Added source: https://medium.com/thedeephub/the-rise-of-the-language-machines-a-comparative-analysis-of-leading-large-language-models-in-2024-89c9a17324ed
+2025-06-04 15:19:41,366 - Research Agent - INFO - Added source: https://medium.com/@muhammadmananali7/10-game-changing-applications-of-large-language-models-in-2024-ffb1241294b8
+2025-06-04 15:19:41,366 - Research Agent - INFO - Added source: https://priyalwalpita.medium.com/major-changes-in-large-language-models-llms-you-need-to-know-about-4d5683a87646
+2025-06-04 15:19:41,367 - Research Agent - INFO - Added source: https://medium.com/@ai-data-drive/ais-top-picks-large-language-models-in-2024-791d80685043
+2025-06-04 15:19:41,367 - Research Agent - INFO - Added source: https://medium.com/data-bistrot/15-artificial-intelligence-llm-trends-in-2024-618a058c9fdf
+2025-06-04 15:19:41,368 - Research Agent - INFO - Added source: https://prajnaaiwisdom.medium.com/llm-trends-2025-a-deep-dive-into-the-future-of-large-language-models-bff23aa7cdbc
+2025-06-04 15:19:41,368 - Research Agent - INFO - Added source: https://medium.com/@aiml_58187/beyond-bigger-models-the-evolution-of-language-model-scaling-laws-d4bc974d3876
+2025-06-04 15:19:41,368 - Research Agent - INFO - Added source: https://medium.com/@debusinha2009/reinforcement-learning-in-2024-transforming-the-landscape-of-generative-ai-and-large-language-fee8b65b1a42
+2025-06-04 15:19:41,369 - Research Agent - INFO - Added source: https://medium.com/@ml_artist/step-into-the-future-witness-the-rise-of-2024s-large-language-models-3ccd447369f2
+2025-06-04 15:19:41,369 - Research Agent - INFO - Added source: https://medium.com/@yashsinha12354/ai-for-natural-language-processing-nlp-in-2024-latest-trends-and-advancements-17da4af13cde
+2025-06-04 15:19:41,370 - Research Agent - INFO - Added source: https://medium.com/@harshaldharpure/latest-open-source-language-models-in-2024-670705eef93a
+2025-06-04 15:19:41,370 - Research Agent - INFO - Added source: https://odsc.medium.com/the-top-llms-and-ai-tools-in-2024-so-far-5526150d9318
+2025-06-04 15:19:41,370 - Research Agent - INFO - Added source: https://medium.com/@aniketbakre1291/understanding-large-language-models-llms-d1d16a1a5471
+2025-06-04 15:19:41,371 - Research Agent - INFO - Added source: https://medium.com/@tenyks_blogger/multimodal-large-language-models-mllms-transforming-computer-vision-76d3c5dd267f
+2025-06-04 15:19:41,371 - Research Agent - INFO - Searching for category documentation with query: What are the latest developments in large language models in 2024? site:pytorch.org OR site:tensorflow.org OR site:huggingface.co/docs
+2025-06-04 15:19:42,784 - Research Agent - INFO - Search successful for query: What are the latest developments in large language models in 2024? site:pytorch.org OR site:tensorflow.org OR site:huggingface.co/docs
+2025-06-04 15:19:42,785 - Research Agent - INFO - Found 10 results for query: What are the latest developments in large language models in 2024? site:pytorch.org OR site:tensorflow.org OR site:huggingface.co/docs
+2025-06-04 15:19:42,787 - Research Agent - INFO - Added source: https://pytorch.org/blog/2024-year-in-review/
+2025-06-04 15:19:42,787 - Research Agent - INFO - Added source: https://pytorch.org/blog/pytorch-conference-2024-recap/
+2025-06-04 15:19:42,787 - Research Agent - INFO - Added source: https://huggingface.co/docs/transformers/main/model_doc/olmo_1124
+2025-06-04 15:19:42,788 - Research Agent - INFO - Added source: https://pytorch.org/blog/accelerating-large-language-models/
+2025-06-04 15:19:42,788 - Research Agent - INFO - Added source: https://blog.tensorflow.org/2024/11/mlsysbookai-principles-and-practices-of-machine-learning-systems-engineering.html
+2025-06-04 15:19:42,789 - Research Agent - INFO - Added source: https://pytorch.org/ai-powered-competitive-programming?__hstc=160532258.9c49e44b73bd3bee6fa385653ecd7c96.1745625603214.1745625603215.1745625603216.1&__hssc=160532258.1.1745625603217&__hsfp=1721781979
+2025-06-04 15:19:42,789 - Research Agent - INFO - Added source: https://pytorch.org/announcements/page/2/
+2025-06-04 15:19:42,790 - Research Agent - INFO - Added source: https://docs.pytorch.org/blog/quantization-aware-training/
+2025-06-04 15:19:42,790 - Research Agent - INFO - Added source: https://pytorch.org/blog/accelerating-llm-inference/
+2025-06-04 15:19:42,790 - Research Agent - INFO - Added source: https://pytorch.org/blog/vllm-joins-pytorch/
+2025-06-04 15:19:42,798 - Research Agent - INFO - Data saved to data\sources.json
+2025-06-04 15:19:42,798 - Research Agent - INFO - Saved 55 sources to sources.json
+2025-06-04 15:19:42,798 - Research Agent - INFO - Executing step: PlanStep(objective='Validate and score sources', status='pending', start_time=None, end_time=None)
+2025-06-04 15:19:42,799 - Research Agent - INFO - Executing step: PlanStep(objective='Validate and score sources', status='pending', start_time=None, end_time=None)
+2025-06-04 15:19:42,800 - Research Agent - WARNING - No sources to save
+2025-06-04 15:19:42,800 - Research Agent - INFO - Executing step: PlanStep(objective='Extract and validate content', status='pending', start_time=None, end_time=None)
+2025-06-04 15:19:42,800 - Research Agent - INFO - Executing step: PlanStep(objective='Extract and validate content', status='pending', start_time=None, end_time=None)
+2025-06-04 15:19:42,801 - Research Agent - WARNING - No sources available, gathering sources first
+2025-06-04 15:19:42,801 - Research Agent - INFO - Searching for category academic with query: What are the latest developments in large language models in 2024? site:arxiv.org OR site:research.google.com OR site:openai.com/research
+2025-06-04 15:19:44,738 - Research Agent - INFO - Search successful for query: What are the latest developments in large language models in 2024? site:arxiv.org OR site:research.google.com OR site:openai.com/research
+2025-06-04 15:19:44,739 - Research Agent - INFO - Found 10 results for query: What are the latest developments in large language models in 2024? site:arxiv.org OR site:research.google.com OR site:openai.com/research
+2025-06-04 15:19:44,740 - Research Agent - INFO - Added source: https://arxiv.org/abs/2409.10146
+2025-06-04 15:19:44,740 - Research Agent - INFO - Added source: https://arxiv.org/html/2402.02420v2
+2025-06-04 15:19:44,741 - Research Agent - INFO - Added source: https://arxiv.org/pdf/2405.17935?
+2025-06-04 15:19:44,741 - Research Agent - INFO - Added source: https://arxiv.org/abs/2407.14962
+2025-06-04 15:19:44,741 - Research Agent - INFO - Added source: https://arxiv.org/html/2502.03671v1
+2025-06-04 15:19:44,742 - Research Agent - INFO - Added source: http://arxiv.org/pdf/2307.06435
+2025-06-04 15:19:44,742 - Research Agent - INFO - Added source: https://arxiv.org/html/2410.15639v3
+2025-06-04 15:19:44,742 - Research Agent - INFO - Added source: https://arxiv.org/abs/2409.03274
+2025-06-04 15:19:44,742 - Research Agent - INFO - Added source: https://arxiv.org/html/2504.13667v1
+2025-06-04 15:19:44,743 - Research Agent - INFO - Added source: https://arxiv.org/html/2304.00008v5
+2025-06-04 15:19:44,743 - Research Agent - INFO - Searching for category tech_blog with query: What are the latest developments in large language models in 2024? site:ai.googleblog.com OR site:openai.com/blog OR site:huggingface.co/blog
+2025-06-04 15:19:46,249 - Research Agent - INFO - Search successful for query: What are the latest developments in large language models in 2024? site:ai.googleblog.com OR site:openai.com/blog OR site:huggingface.co/blog
+2025-06-04 15:19:46,250 - Research Agent - INFO - Found 15 results for query: What are the latest developments in large language models in 2024? site:ai.googleblog.com OR site:openai.com/blog OR site:huggingface.co/blog
+2025-06-04 15:19:46,252 - Research Agent - INFO - Added source: https://huggingface.co/blog/codys12/rl-2025
+2025-06-04 15:19:46,253 - Research Agent - INFO - Added source: https://huggingface.co/blog/gigant/vlm-design
+2025-06-04 15:19:46,253 - Research Agent - INFO - Added source: https://huggingface.co/blog/royswastik/reinforcement-learning-for-llms
+2025-06-04 15:19:46,253 - Research Agent - INFO - Added source: https://huggingface.co/blog/vlms-2025
+2025-06-04 15:19:46,254 - Research Agent - INFO - Added source: https://huggingface.co/blog/Kseniase/mcp
+2025-06-04 15:19:46,254 - Research Agent - INFO - Added source: https://huggingface.co/blog/wolfram/llm-comparison-test-2024-12-04
+2025-06-04 15:19:46,255 - Research Agent - INFO - Added source: https://huggingface.co/blog/haritzpuerto/problem-solving-with-language-models
+2025-06-04 15:19:46,255 - Research Agent - INFO - Added source: https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html
+2025-06-04 15:19:46,255 - Research Agent - INFO - Added source: https://ai.googleblog.com/2022/11/better-language-models-without-massive.html
+2025-06-04 15:19:46,256 - Research Agent - INFO - Added source: https://huggingface.co/blog/lynn-mikami/llm-free
+2025-06-04 15:19:46,256 - Research Agent - INFO - Added source: https://huggingface.co/blog/Kseniase/inference
+2025-06-04 15:19:46,257 - Research Agent - INFO - Added source: https://huggingface.co/blog/sted97/alert
+2025-06-04 15:19:46,257 - Research Agent - INFO - Added source: https://huggingface.co/blog/leaderboard-emissions-analysis
+2025-06-04 15:19:46,257 - Research Agent - INFO - Added source: https://huggingface.co/blog/aovabo/simple-guide-how-ai-really-works
+2025-06-04 15:19:46,258 - Research Agent - INFO - Added source: https://huggingface.co/blog/aaditya/openbiollm
+2025-06-04 15:19:46,258 - Research Agent - INFO - Searching for category news with query: What are the latest developments in large language models in 2024? site:medium.com OR site:towardsdatascience.com
+2025-06-04 15:19:47,309 - Research Agent - INFO - Search successful for query: What are the latest developments in large language models in 2024? site:medium.com OR site:towardsdatascience.com
+2025-06-04 15:19:47,309 - Research Agent - INFO - Found 15 results for query: What are the latest developments in large language models in 2024? site:medium.com OR site:towardsdatascience.com
+2025-06-04 15:19:47,311 - Research Agent - INFO - Added source: https://medium.com/@yousra.aoudi/advancements-in-large-language-models-llms-transforming-ai-capabilities-in-2024-666f4d243012
+2025-06-04 15:19:47,312 - Research Agent - INFO - Added source: https://medium.com/thedeephub/the-rise-of-the-language-machines-a-comparative-analysis-of-leading-large-language-models-in-2024-89c9a17324ed
+2025-06-04 15:19:47,312 - Research Agent - INFO - Added source: https://medium.com/@muhammadmananali7/10-game-changing-applications-of-large-language-models-in-2024-ffb1241294b8
+2025-06-04 15:19:47,312 - Research Agent - INFO - Added source: https://medium.com/@ai-data-drive/ais-top-picks-large-language-models-in-2024-791d80685043
+2025-06-04 15:19:47,313 - Research Agent - INFO - Added source: https://priyalwalpita.medium.com/major-changes-in-large-language-models-llms-you-need-to-know-about-4d5683a87646
+2025-06-04 15:19:47,313 - Research Agent - INFO - Added source: https://medium.com/data-bistrot/15-artificial-intelligence-llm-trends-in-2024-618a058c9fdf
+2025-06-04 15:19:47,313 - Research Agent - INFO - Added source: https://medium.com/@aiml_58187/beyond-bigger-models-the-evolution-of-language-model-scaling-laws-d4bc974d3876
+2025-06-04 15:19:47,314 - Research Agent - INFO - Added source: https://prajnaaiwisdom.medium.com/llm-trends-2025-a-deep-dive-into-the-future-of-large-language-models-bff23aa7cdbc
+2025-06-04 15:19:47,314 - Research Agent - INFO - Added source: https://medium.com/@debusinha2009/reinforcement-learning-in-2024-transforming-the-landscape-of-generative-ai-and-large-language-fee8b65b1a42
+2025-06-04 15:19:47,315 - Research Agent - INFO - Added source: https://medium.com/@ml_artist/step-into-the-future-witness-the-rise-of-2024s-large-language-models-3ccd447369f2
+2025-06-04 15:19:47,315 - Research Agent - INFO - Added source: https://medium.com/@yashsinha12354/ai-for-natural-language-processing-nlp-in-2024-latest-trends-and-advancements-17da4af13cde
+2025-06-04 15:19:47,316 - Research Agent - INFO - Added source: https://medium.com/@harshaldharpure/latest-open-source-language-models-in-2024-670705eef93a
+2025-06-04 15:19:47,316 - Research Agent - INFO - Added source: https://odsc.medium.com/the-top-llms-and-ai-tools-in-2024-so-far-5526150d9318
+2025-06-04 15:19:47,316 - Research Agent - INFO - Added source: https://medium.com/@aniketbakre1291/understanding-large-language-models-llms-d1d16a1a5471
+2025-06-04 15:19:47,317 - Research Agent - INFO - Added source: https://medium.com/@tenyks_blogger/multimodal-large-language-models-mllms-transforming-computer-vision-76d3c5dd267f
+2025-06-04 15:19:47,317 - Research Agent - INFO - Searching for category documentation with query: What are the latest developments in large language models in 2024? site:pytorch.org OR site:tensorflow.org OR site:huggingface.co/docs
+2025-06-04 15:19:48,898 - Research Agent - INFO - Search successful for query: What are the latest developments in large language models in 2024? site:pytorch.org OR site:tensorflow.org OR site:huggingface.co/docs
+2025-06-04 15:19:48,899 - Research Agent - INFO - Found 15 results for query: What are the latest developments in large language models in 2024? site:pytorch.org OR site:tensorflow.org OR site:huggingface.co/docs
+2025-06-04 15:19:48,901 - Research Agent - INFO - Added source: https://pytorch.org/blog/2024-year-in-review/
+2025-06-04 15:19:48,901 - Research Agent - INFO - Added source: https://pytorch.org/blog/pytorch-conference-2024-recap/
+2025-06-04 15:19:48,901 - Research Agent - INFO - Added source: https://huggingface.co/docs/transformers/main/model_doc/olmo_1124
+2025-06-04 15:19:48,902 - Research Agent - INFO - Added source: https://pytorch.org/blog/accelerating-large-language-models/
+2025-06-04 15:19:48,902 - Research Agent - INFO - Added source: https://blog.tensorflow.org/2024/11/mlsysbookai-principles-and-practices-of-machine-learning-systems-engineering.html
+2025-06-04 15:19:48,902 - Research Agent - INFO - Added source: https://pytorch.org/ai-powered-competitive-programming?__hstc=160532258.9c49e44b73bd3bee6fa385653ecd7c96.1745625603214.1745625603215.1745625603216.1&__hssc=160532258.1.1745625603217&__hsfp=1721781979
+2025-06-04 15:19:48,902 - Research Agent - INFO - Added source: https://pytorch.org/announcements/page/2/
+2025-06-04 15:19:48,903 - Research Agent - INFO - Added source: https://docs.pytorch.org/blog/quantization-aware-training/
+2025-06-04 15:19:48,903 - Research Agent - INFO - Added source: https://pytorch.org/blog/accelerating-llm-inference/
+2025-06-04 15:19:48,903 - Research Agent - INFO - Added source: https://pytorch.org/blog/vllm-joins-pytorch/
+2025-06-04 15:19:48,903 - Research Agent - INFO - Added source: https://pytorch.org/blog/finetune-llms/
+2025-06-04 15:19:48,905 - Research Agent - INFO - Added source: https://docs.pytorch.org/ai-powered-competitive-programming
+2025-06-04 15:19:48,905 - Research Agent - INFO - Added source: https://www.tensorflow.org/tfx/tutorials/tfx/gpt2_finetuning_and_conversion
+2025-06-04 15:19:48,905 - Research Agent - INFO - Added source: https://pytorch.org/blog/executorch-beta/
+2025-06-04 15:19:48,906 - Research Agent - INFO - Added source: https://pytorch.org/community-stories
+2025-06-04 15:19:48,911 - Research Agent - INFO - Data saved to data\sources.json
+2025-06-04 15:19:48,912 - Research Agent - INFO - Saved 55 sources to sources.json
+2025-06-04 15:19:49,294 - Research Agent - INFO - Successfully extracted content from https://arxiv.org/abs/2409.10146
+2025-06-04 15:19:49,551 - Research Agent - INFO - Successfully extracted content from https://arxiv.org/html/2402.02420v2
+2025-06-04 15:19:53,326 - Research Agent - INFO - Successfully extracted content from https://arxiv.org/pdf/2405.17935?
+2025-06-04 15:19:53,394 - Research Agent - INFO - Successfully extracted content from https://arxiv.org/abs/2407.14962
+2025-06-04 15:19:53,822 - Research Agent - INFO - Successfully extracted content from https://arxiv.org/html/2502.03671v1
+2025-06-04 15:19:54,848 - Research Agent - INFO - Successfully extracted content from http://arxiv.org/pdf/2307.06435
+2025-06-04 15:19:56,832 - Research Agent - INFO - Successfully extracted content from https://arxiv.org/html/2410.15639v3
+2025-06-04 15:19:56,913 - Research Agent - INFO - Successfully extracted content from https://arxiv.org/abs/2409.03274
+2025-06-04 15:19:57,218 - Research Agent - INFO - Successfully extracted content from https://arxiv.org/html/2504.13667v1
+2025-06-04 15:19:57,522 - Research Agent - INFO - Successfully extracted content from https://arxiv.org/html/2304.00008v5
+2025-06-04 15:19:58,518 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/blog/codys12/rl-2025
+2025-06-04 15:19:58,984 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/blog/gigant/vlm-design
+2025-06-04 15:19:59,502 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/blog/royswastik/reinforcement-learning-for-llms
+2025-06-04 15:20:00,370 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/blog/vlms-2025
+2025-06-04 15:20:00,802 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/blog/Kseniase/mcp
+2025-06-04 15:20:01,414 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/blog/wolfram/llm-comparison-test-2024-12-04
+2025-06-04 15:20:01,784 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/blog/haritzpuerto/problem-solving-with-language-models
+2025-06-04 15:20:05,106 - Research Agent - INFO - Successfully extracted content from https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html
+2025-06-04 15:20:06,071 - Research Agent - INFO - Successfully extracted content from https://ai.googleblog.com/2022/11/better-language-models-without-massive.html
+2025-06-04 15:20:06,527 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/blog/lynn-mikami/llm-free
+2025-06-04 15:20:06,877 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/blog/Kseniase/inference
+2025-06-04 15:20:07,238 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/blog/sted97/alert
+2025-06-04 15:20:07,846 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/blog/leaderboard-emissions-analysis
+2025-06-04 15:20:08,326 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/blog/aovabo/simple-guide-how-ai-really-works
+2025-06-04 15:20:08,963 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/blog/aaditya/openbiollm
+2025-06-04 15:20:09,589 - Research Agent - INFO - Successfully extracted content from https://medium.com/@yousra.aoudi/advancements-in-large-language-models-llms-transforming-ai-capabilities-in-2024-666f4d243012
+2025-06-04 15:20:11,110 - Research Agent - INFO - Successfully extracted content from https://medium.com/thedeephub/the-rise-of-the-language-machines-a-comparative-analysis-of-leading-large-language-models-in-2024-89c9a17324ed
+2025-06-04 15:20:11,690 - Research Agent - INFO - Successfully extracted content from https://medium.com/@muhammadmananali7/10-game-changing-applications-of-large-language-models-in-2024-ffb1241294b8
+2025-06-04 15:20:12,120 - Research Agent - INFO - Successfully extracted content from https://medium.com/@ai-data-drive/ais-top-picks-large-language-models-in-2024-791d80685043
+2025-06-04 15:20:12,370 - Research Agent - INFO - Successfully extracted content from https://priyalwalpita.medium.com/major-changes-in-large-language-models-llms-you-need-to-know-about-4d5683a87646
+2025-06-04 15:20:12,917 - Research Agent - INFO - Successfully extracted content from https://medium.com/data-bistrot/15-artificial-intelligence-llm-trends-in-2024-618a058c9fdf
+2025-06-04 15:20:13,357 - Research Agent - INFO - Successfully extracted content from https://medium.com/@aiml_58187/beyond-bigger-models-the-evolution-of-language-model-scaling-laws-d4bc974d3876
+2025-06-04 15:20:14,009 - Research Agent - INFO - Successfully extracted content from https://prajnaaiwisdom.medium.com/llm-trends-2025-a-deep-dive-into-the-future-of-large-language-models-bff23aa7cdbc
+2025-06-04 15:20:14,915 - Research Agent - INFO - Successfully extracted content from https://medium.com/@debusinha2009/reinforcement-learning-in-2024-transforming-the-landscape-of-generative-ai-and-large-language-fee8b65b1a42
+2025-06-04 15:20:15,325 - Research Agent - INFO - Successfully extracted content from https://medium.com/@ml_artist/step-into-the-future-witness-the-rise-of-2024s-large-language-models-3ccd447369f2
+2025-06-04 15:20:15,723 - Research Agent - INFO - Successfully extracted content from https://medium.com/@yashsinha12354/ai-for-natural-language-processing-nlp-in-2024-latest-trends-and-advancements-17da4af13cde
+2025-06-04 15:20:16,119 - Research Agent - INFO - Successfully extracted content from https://medium.com/@harshaldharpure/latest-open-source-language-models-in-2024-670705eef93a
+2025-06-04 15:20:16,307 - Research Agent - INFO - Successfully extracted content from https://odsc.medium.com/the-top-llms-and-ai-tools-in-2024-so-far-5526150d9318
+2025-06-04 15:20:16,701 - Research Agent - INFO - Successfully extracted content from https://medium.com/@aniketbakre1291/understanding-large-language-models-llms-d1d16a1a5471
+2025-06-04 15:20:17,239 - Research Agent - INFO - Successfully extracted content from https://medium.com/@tenyks_blogger/multimodal-large-language-models-mllms-transforming-computer-vision-76d3c5dd267f
+2025-06-04 15:20:17,581 - Research Agent - INFO - Successfully extracted content from https://pytorch.org/blog/2024-year-in-review/
+2025-06-04 15:20:17,645 - Research Agent - INFO - Successfully extracted content from https://pytorch.org/blog/pytorch-conference-2024-recap/
+2025-06-04 15:20:18,068 - Research Agent - INFO - Successfully extracted content from https://huggingface.co/docs/transformers/main/model_doc/olmo_1124
+2025-06-04 15:20:18,144 - Research Agent - INFO - Successfully extracted content from https://pytorch.org/blog/accelerating-large-language-models/
+2025-06-04 15:20:18,842 - Research Agent - INFO - Successfully extracted content from https://blog.tensorflow.org/2024/11/mlsysbookai-principles-and-practices-of-machine-learning-systems-engineering.html
+2025-06-04 15:20:18,879 - Research Agent - WARNING - Failed to extract content from https://pytorch.org/ai-powered-competitive-programming?__hstc=160532258.9c49e44b73bd3bee6fa385653ecd7c96.1745625603214.1745625603215.1745625603216.1&__hssc=160532258.1.1745625603217&__hsfp=1721781979: 404 Client Error: Not Found for url: https://pytorch.org/ai-powered-competitive-programming?__hstc=160532258.9c49e44b73bd3bee6fa385653ecd7c96.1745625603214.1745625603215.1745625603216.1&__hssc=160532258.1.1745625603217&__hsfp=1721781979
+2025-06-04 15:20:18,949 - Research Agent - INFO - Successfully extracted content from https://pytorch.org/announcements/page/2/
+2025-06-04 15:20:19,597 - Research Agent - INFO - Successfully extracted content from https://docs.pytorch.org/blog/quantization-aware-training/
+2025-06-04 15:20:19,671 - Research Agent - INFO - Successfully extracted content from https://pytorch.org/blog/accelerating-llm-inference/
+2025-06-04 15:20:19,733 - Research Agent - INFO - Successfully extracted content from https://pytorch.org/blog/vllm-joins-pytorch/
+2025-06-04 15:20:19,798 - Research Agent - INFO - Successfully extracted content from https://pytorch.org/blog/finetune-llms/
+2025-06-04 15:20:20,117 - Research Agent - INFO - Successfully extracted content from https://docs.pytorch.org/ai-powered-competitive-programming
+2025-06-04 15:20:23,249 - Research Agent - INFO - Successfully extracted content from https://www.tensorflow.org/tfx/tutorials/tfx/gpt2_finetuning_and_conversion
+2025-06-04 15:20:23,309 - Research Agent - INFO - Successfully extracted content from https://pytorch.org/blog/executorch-beta/
+2025-06-04 15:20:23,398 - Research Agent - INFO - Successfully extracted content from https://pytorch.org/community-stories
+2025-06-04 15:20:23,424 - Research Agent - INFO - Data saved to data\extracted_content.json
+2025-06-04 15:20:23,424 - Research Agent - INFO - Executing step: PlanStep(objective='Analyze and synthesize', status='pending', start_time=None, end_time=None)
+2025-06-04 15:20:23,424 - Research Agent - INFO - Executing step: PlanStep(objective='Analyze and synthesize', status='pending', start_time=None, end_time=None)
+2025-06-04 15:20:23,665 - Research Agent - INFO - Data saved to data\analysis.json
+2025-06-04 15:20:23,665 - Research Agent - INFO - Executing step: PlanStep(objective='Generate comprehensive report', status='pending', start_time=None, end_time=None)
+2025-06-04 15:20:23,666 - Research Agent - INFO - Executing step: PlanStep(objective='Generate comprehensive report', status='pending', start_time=None, end_time=None)

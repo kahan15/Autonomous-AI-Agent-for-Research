@@ -1,0 +1,91 @@
+Metadata-Version: 2.4
+Name: research-agent
+Version: 1.0.0
+Summary: An autonomous AI agent for research and decision support
+Author: AI Research Team
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: requests>=2.31.0
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: pyyaml>=6.0.1
+Requires-Dist: beautifulsoup4>=4.12.2
+Requires-Dist: pandas>=2.1.0
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: matplotlib>=3.7.1
+Requires-Dist: seaborn>=0.12.2
+Requires-Dist: aiohttp>=3.8.5
+Requires-Dist: langchain>=0.0.300
+Requires-Dist: python-dateutil>=2.8.2
+Requires-Dist: tqdm>=4.65.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.4.0; extra == "dev"
+Requires-Dist: black>=23.7.0; extra == "dev"
+Requires-Dist: isort>=5.12.0; extra == "dev"
+Requires-Dist: mypy>=1.5.1; extra == "dev"
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# Autonomous AI Research Agent
+
+An advanced AI agent system specialized in Research & Decision Support, built using Python. This agent operates autonomously to conduct research, analyze data, and provide decision support through a systematic Plan-Execute-Reflect workflow.
+
+## Features
+
+- Autonomous research and data gathering
+- Systematic workflow with Plan-Execute-Reflect cycles
+- Comprehensive data analysis and visualization
+- Decision support with actionable recommendations
+- Integration with various data sources and APIs
+- Markdown report generation
+
+## Project Structure
+
+```
+.
+â”œâ”€â”€ src/                    # Source code directory
+â”‚   â”œâ”€â”€ agent/             # Core agent implementation
+â”‚   â”œâ”€â”€ research/          # Research-related modules
+â”‚   â””â”€â”€ utils/             # Utility functions
+â”œâ”€â”€ data/                  # Data storage directory
+â”œâ”€â”€ reports/               # Generated reports directory
+â”œâ”€â”€ tests/                 # Test files
+â””â”€â”€ config/                # Configuration files
+```
+
+## Setup
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Configure environment variables in `.env`
+4. Run the agent:
+   ```bash
+   python src/main.py
+   ```
+
+## Configuration
+
+The agent can be configured through `config/config.yaml` and environment variables in `.env`.
+
+## Usage
+
+Detailed usage instructions and examples will be provided in the documentation.
+
+## License
+
+MIT License 

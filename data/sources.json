@@ -1,0 +1,497 @@
+[
+  {
+    "url": "https://arxiv.org/abs/2409.10146",
+    "title": "LLMs4OL 2024 Overview: The 1st Large Language Models ...",
+    "snippet": "by HB Giglou · 2024 · Cited by 11 — This paper outlines the LLMs4OL 2024, the first edition of the Large Language Models for Ontology Learning Challenge.",
+    "source_type": "academic",
+    "credibility_score": 0.8,
+    "published_date": null,
+    "hash": "af15ecc0f180c0344b2c441c51d09901"
+  },
+  {
+    "url": "https://arxiv.org/html/2402.02420v2",
+    "title": "Factuality of Large Language Models in the Year 2024",
+    "snippet": "Organized by different training stages of LLMs, discusses potential sources of LLM hallucinations and in-depth review of recent work on addressing the problem.",
+    "source_type": "academic",
+    "credibility_score": 0.8,
+    "published_date": null,
+    "hash": "61855c342dc54b240058cc1120a6ab27"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2405.17935?",
+    "title": "Tool Learning with Large Language Models: A Survey",
+    "snippet": "by C Qu · 2024 · Cited by 89 — Abstract Recently, tool learning with large lan- guage models (LLMs) has emerged as a promising paradigm for augmenting the capabilities of ...",
+    "source_type": "academic",
+    "credibility_score": 0.8,
+    "published_date": null,
+    "hash": "a1f9a7fc2c505e1e70bd776534be0aa6"
+  },
+  {
+    "url": "https://arxiv.org/abs/2407.14962",
+    "title": "Recent Advances in Generative AI and Large Language ...",
+    "snippet": "by DH Hagos · 2024 · Cited by 47 — This paper explores the current state of these cutting-edge technologies, demonstrating their remarkable advancements and wide-ranging applications.",
+    "source_type": "academic",
+    "credibility_score": 0.8,
+    "published_date": null,
+    "hash": "9f9ce1a4e9eab3178b9590ff76c5d6ba"
+  },
+  {
+    "url": "https://arxiv.org/html/2502.03671v1",
+    "title": "Advancing Reasoning in Large Language Models",
+    "snippet": "This survey provides a comprehensive review of emerging techniques enhancing reasoning in LLMs. We categorize existing methods into key approaches.",
+    "source_type": "academic",
+    "credibility_score": 0.8,
+    "published_date": "Feb 5, 2025",
+    "hash": "2f9077638ac946fd04a457b0d34bc41b"
+  },
+  {
+    "url": "http://arxiv.org/pdf/2307.06435",
+    "title": "A Comprehensive Overview of Large Language Models",
+    "snippet": "by H Naveed · 2023 · Cited by 1078 — These works encompass diverse topics such as architectural innovations, better training strategies, context length improvements, fine-tuning, multi-modal LLMs,.",
+    "source_type": "academic",
+    "credibility_score": 0.7,
+    "published_date": null,
+    "hash": "8919e4fabf4a392b678a54f1a259c6e1"
+  },
+  {
+    "url": "https://arxiv.org/html/2410.15639v3",
+    "title": "Can Large Language Models Invent Algorithms to Improve ...",
+    "snippet": "Large Language Models (LLMs) have shown remarkable performance improvements and are rapidly gaining adoption in industry. However, the methods ...",
+    "source_type": "academic",
+    "credibility_score": 0.8,
+    "published_date": "Feb 7, 2025",
+    "hash": "c0c08784bfe48424efd2f98a97c3a19d"
+  },
+  {
+    "url": "https://arxiv.org/abs/2409.03274",
+    "title": "Recent Advances in Attack and Defense Approaches of ...",
+    "snippet": "by J Cui · 2024 · Cited by 6 — This paper reviews current research on LLM vulnerabilities and threats, and evaluates the effectiveness of contemporary defense mechanisms.",
+    "source_type": "academic",
+    "credibility_score": 0.8,
+    "published_date": null,
+    "hash": "06f0fd15d3fe640466b7432f58d0fa1d"
+  },
+  {
+    "url": "https://arxiv.org/html/2504.13667v1",
+    "title": "Large Language Models Will Change The Way Children ...",
+    "snippet": "As Large Language Models (LLMs) continue to grow in sophistication and relevance, the scope of their educational applications has broadened.",
+    "source_type": "academic",
+    "credibility_score": 0.8,
+    "published_date": "Apr 18, 2025",
+    "hash": "205036526d420041b0c4a3a7ea002a96"
+  },
+  {
+    "url": "https://arxiv.org/html/2304.00008v5",
+    "title": "On the Creativity of Large Language Models",
+    "snippet": "In this article, we first analyze the development of LLMs under the lens of creativity theories, investigating the key open questions and challenges.",
+    "source_type": "academic",
+    "credibility_score": 0.8,
+    "published_date": "Feb 13, 2025",
+    "hash": "37649238fbe48f28f8796f7f10535ee8"
+  },
+  {
+    "url": "https://huggingface.co/blog/codys12/rl-2025",
+    "title": "All LLMs Will Be Sparse BitNet Hybrids",
+    "snippet": "By the end of 2025, all leading open-source LLMs will be BitNet SSM-Transformer hybrid bases. That is, the standard LLM architecture will ...",
+    "source_type": "tech_blog",
+    "credibility_score": 0.6,
+    "published_date": "by C Steinmetz",
+    "hash": "713cf2a67061dd85ea6397d8ee57bee0"
+  },
+  {
+    "url": "https://huggingface.co/blog/gigant/vlm-design",
+    "title": "Design choices for Vision Language Models in 2024",
+    "snippet": "In this blog post we will focus on the automatic understanding of vision and language by describing some of the popular designs that were studied in the recent ...",
+    "source_type": "tech_blog",
+    "credibility_score": 0.8,
+    "published_date": "Apr 16, 2024",
+    "hash": "6d54fa76de9bc48cc0cd5c060cd0d56d"
+  },
+  {
+    "url": "https://huggingface.co/blog/royswastik/reinforcement-learning-for-llms",
+    "title": "Reinforcement Learning for Large Language Models",
+    "snippet": "Let's dive into the fascinating world of reinforcement learning for language models – where the goal isn't teaching agents to play video games.",
+    "source_type": "tech_blog",
+    "credibility_score": 0.6,
+    "published_date": "Mar 19, 2025",
+    "hash": "0e4d2de9f1e3ffded484542ccb02d480"
+  },
+  {
+    "url": "https://huggingface.co/blog/vlms-2025",
+    "title": "Vision Language Models (Better, faster, stronger)",
+    "snippet": "The latest one is UI-TARS-1.5 by ByteDance, which showed great results in operating over browser, computer and phone use. It can also do ...",
+    "source_type": "tech_blog",
+    "credibility_score": 0.6,
+    "published_date": "May 12, 2025",
+    "hash": "bae8748070a21931a9c1e089076ab2fc"
+  },
+  {
+    "url": "https://huggingface.co/blog/Kseniase/mcp",
+    "title": "14: What Is MCP, and Why Is Everyone – Suddenly!",
+    "snippet": "Anthropic came up with Model Context Protocol (MCP) – an open standard designed to bridge AI assistants with the world of data and tools.",
+    "source_type": "tech_blog",
+    "credibility_score": 0.6,
+    "published_date": "Mar 17, 2025",
+    "hash": "1c9abc965dcead7423e91b1cdae32c2c"
+  },
+  {
+    "url": "https://huggingface.co/blog/wolfram/llm-comparison-test-2024-12-04",
+    "title": "25 SOTA LLMs (including QwQ) through 59 MMLU-Pro CS ...",
+    "snippet": "GPT-4o (2024-11-20) is the latest version of GPT-4o. Again, it's curious that a newer version shows lower benchmark performance compared to its ...",
+    "source_type": "tech_blog",
+    "credibility_score": 0.8,
+    "published_date": "Dec 4, 2024",
+    "hash": "c2302c87c6bbd6f4c055bc936b592987"
+  },
+  {
+    "url": "https://huggingface.co/blog/haritzpuerto/problem-solving-with-language-models",
+    "title": "Problem Solving with Language Models",
+    "snippet": "In this blog post, we provide a high-level overview of different approaches to solving reasoning problems with language models.",
+    "source_type": "tech_blog",
+    "credibility_score": 0.6,
+    "published_date": "Feb 2, 2025",
+    "hash": "fe81e73ae35f8c69c02df251d3cc187e"
+  },
+  {
+    "url": "https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html",
+    "title": "Language Models Perform Reasoning via Chain of Thought",
+    "snippet": "Chain of thought prompting is a simple and broadly applicable method for improving the ability of language models to perform various reasoning tasks.",
+    "source_type": "tech_blog",
+    "credibility_score": 0.8,
+    "published_date": "May 11, 2022",
+    "hash": "92b5616da163e4b5dda98e21e14b1709"
+  },
+  {
+    "url": "https://ai.googleblog.com/2022/11/better-language-models-without-massive.html",
+    "title": "Better Language Models Without Massive Compute",
+    "snippet": "In this blog post, we explore two complementary methods for improving existing language models by a large margin without using massive computational resources.",
+    "source_type": "tech_blog",
+    "credibility_score": 0.8,
+    "published_date": "Nov 29, 2022",
+    "hash": "843c21561148427a1024e6d7b67ac9b2"
+  },
+  {
+    "url": "https://huggingface.co/blog/lynn-mikami/llm-free",
+    "title": "How to use LLMs for Free (Complete Guide 2025)",
+    "snippet": "We see powerful models like GPT-4, Claude 3, Gemini, and Llama 3 capturing headlines, demonstrating incredible capabilities in text generation, ...",
+    "source_type": "tech_blog",
+    "credibility_score": 0.6,
+    "published_date": "Apr 16, 2025",
+    "hash": "1a84665abb843629ed667c4ad10c7f81"
+  },
+  {
+    "url": "https://huggingface.co/blog/Kseniase/inference",
+    "title": "What is LLM Inference, it's challenges and solutions for it",
+    "snippet": "A trained Large Language Model (LLM) holds immense potential, but inference is what truly activates it – it's the moment when theory meets ...",
+    "source_type": "tech_blog",
+    "credibility_score": 0.6,
+    "published_date": "Jan 17, 2025",
+    "hash": "cd54089afe04dc24b7e04a1d7acf45da"
+  },
+  {
+    "url": "https://huggingface.co/blog/sted97/alert",
+    "title": "🚨 ALERT: A Comprehensive Benchmark for Assessing ...",
+    "snippet": "Large Language Models (LLMs) have revolutionized the natural language processing field and beyond, enabling remarkable advancements in text ...",
+    "source_type": "tech_blog",
+    "credibility_score": 0.8,
+    "published_date": "Jun 25, 2024",
+    "hash": "ff518749e99c349c0486be65b4ce006b"
+  },
+  {
+    "url": "https://huggingface.co/blog/leaderboard-emissions-analysis",
+    "title": "Insights from the Open LLM Leaderboard",
+    "snippet": "Since June 2024, we have evaluated more than 3,000 models on the Open LLM Leaderboard, a worldwide ranking of open language models performance.",
+    "source_type": "tech_blog",
+    "credibility_score": 0.6,
+    "published_date": "Jan 9, 2025",
+    "hash": "dc63e7e07a12ecaa9e8018e6ca081174"
+  },
+  {
+    "url": "https://huggingface.co/blog/aovabo/simple-guide-how-ai-really-works",
+    "title": "Your Simple Guide to How AI Really Works",
+    "snippet": "A 2024 study by the Pew Research Center 3 found a ... Large Language Models (LLMs) are not given exact grammar rules. ... Knowledge Cutoff: Tools let agents access ...",
+    "source_type": "tech_blog",
+    "credibility_score": 0.6,
+    "published_date": null,
+    "hash": "81b34f1b3270b48effdcf6f9900435c2"
+  },
+  {
+    "url": "https://huggingface.co/blog/aaditya/openbiollm",
+    "title": "Advancing Open-source Large Language Models in the ...",
+    "snippet": "OpenBioLLM-70B is an advanced open source language model designed specifically for the biomedical domain. Developed by Saama AI Labs.",
+    "source_type": "tech_blog",
+    "credibility_score": 0.8,
+    "published_date": "May 10, 2024",
+    "hash": "121890b717216e793bdee7a49c5389ec"
+  },
+  {
+    "url": "https://medium.com/@yousra.aoudi/advancements-in-large-language-models-llms-transforming-ai-capabilities-in-2024-666f4d243012",
+    "title": "Advancements in Large Language Models (LLMs)",
+    "snippet": "Advancements in Large Language Models (LLMs): Transforming AI Capabilities in 2024 · 1. Enhanced Reasoning and Problem-Solving · 2. Multimodal ...",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": null,
+    "hash": "1cd76ab47c9bdb045f212b98e3d78c5f"
+  },
+  {
+    "url": "https://medium.com/thedeephub/the-rise-of-the-language-machines-a-comparative-analysis-of-leading-large-language-models-in-2024-89c9a17324ed",
+    "title": "The Rise of the Language Machines: A Comparative ...",
+    "snippet": "Machine Translation: Google Translate continues to improve, and research focuses on low-resource languages and domain-specific translation.",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": "5 months ago",
+    "hash": "ed839b165791202cddd41fa4db65d358"
+  },
+  {
+    "url": "https://medium.com/@muhammadmananali7/10-game-changing-applications-of-large-language-models-in-2024-ffb1241294b8",
+    "title": "10 Game-Changing Applications of Large Language ...",
+    "snippet": "10 Game-Changing Applications of Large Language Models in 2024 · 10. Data Analysis and Business Insights · 9. Gaming and Virtual Worlds · 8.",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": "6 months ago",
+    "hash": "06c29b6358efa1ddb4ef33dcc41726b8"
+  },
+  {
+    "url": "https://medium.com/@ai-data-drive/ais-top-picks-large-language-models-in-2024-791d80685043",
+    "title": "AI's Top Picks: Large Language Models in 2024",
+    "snippet": "Description: GPT-4o is OpenAI's latest and most advanced model. It boasts multi-modal capabilities, handling text, images, video, and audio ...",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": "5 months ago",
+    "hash": "9fdd39f8ce01741f3715afcc0a19cf78"
+  },
+  {
+    "url": "https://priyalwalpita.medium.com/major-changes-in-large-language-models-llms-you-need-to-know-about-4d5683a87646",
+    "title": "Major Changes in Large Language Models (LLMs) You Need ...",
+    "snippet": "Major Changes in Large Language Models (LLMs) You Need to Know in 2024 · Models Are Getting Smarter · Tokens Are Getting Faster · Tokens Are ...",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": "11 months ago",
+    "hash": "c2a3c58401173b4a93e1b6fcab63d231"
+  },
+  {
+    "url": "https://medium.com/data-bistrot/15-artificial-intelligence-llm-trends-in-2024-618a058c9fdf",
+    "title": "18 Artificial Intelligence LLM Trends in 2025",
+    "snippet": "In 2024, the issue of bias in large language models (LLMs) emerged as a trending topic due to the increasing integration of AI into critical ...",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": "4 months ago",
+    "hash": "3003ee551e8a877f938d480251aed730"
+  },
+  {
+    "url": "https://medium.com/@aiml_58187/beyond-bigger-models-the-evolution-of-language-model-scaling-laws-d4bc974d3876",
+    "title": "Language Model Scaling Laws: Beyond Bigger AI ...",
+    "snippet": "Inference scaling (OpenAI's o1 model, 2024) emerged as a new direction, focusing on optimising inference-time compute for improved reasoning.",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": "8 months ago",
+    "hash": "d1b429bf4a3de8af9503cbdb56eac8d0"
+  },
+  {
+    "url": "https://prajnaaiwisdom.medium.com/llm-trends-2025-a-deep-dive-into-the-future-of-large-language-models-bff23aa7cdbc",
+    "title": "LLM Trends 2025: A Deep Dive into the Future of Large ...",
+    "snippet": "Recent advancements suggest that multimodal LLMs will soon enable richer, more complex user experiences, merging the best of natural language ...",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": null,
+    "hash": "241ca11ccbe8b032c55c1f194a7571bc"
+  },
+  {
+    "url": "https://medium.com/@debusinha2009/reinforcement-learning-in-2024-transforming-the-landscape-of-generative-ai-and-large-language-fee8b65b1a42",
+    "title": "Reinforcement Learning in 2024: Transforming the ...",
+    "snippet": "In conclusion, 2024 was a year that demonstrated the potential of Reinforcement Learning to elevate the capabilities of Large Language Models.",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": null,
+    "hash": "c0e8f9076704581f73ac5597fb03f87f"
+  },
+  {
+    "url": "https://medium.com/@ml_artist/step-into-the-future-witness-the-rise-of-2024s-large-language-models-3ccd447369f2",
+    "title": "the Rise of 2024's Large Language Models",
+    "snippet": "This story shows a group of more than 100 important Large Language Models LLMs. It tells you everything you could want to know about these ...",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": "1 year ago",
+    "hash": "66ae10b53ed98eeb2a76317f3ffff049"
+  },
+  {
+    "url": "https://medium.com/@yashsinha12354/ai-for-natural-language-processing-nlp-in-2024-latest-trends-and-advancements-17da4af13cde",
+    "title": "AI for Natural Language Processing (NLP) in 2024",
+    "snippet": "The landscape of NLP in 2024 is marked by significant advancements, particularly in transformer-based models, conversational AI, multimodal learning, and few- ...",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": "8 months ago",
+    "hash": "fe56816711f63fa4a9d17d7d728b5482"
+  },
+  {
+    "url": "https://medium.com/@harshaldharpure/latest-open-source-language-models-in-2024-670705eef93a",
+    "title": "Latest Open-Source Language Models in 2024",
+    "snippet": "In this blog, we'll look at the newest and coolest LLMs that are making waves in 2024.",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": null,
+    "hash": "796b008065b259e4a9f003f1dae0bf6a"
+  },
+  {
+    "url": "https://odsc.medium.com/the-top-llms-and-ai-tools-in-2024-so-far-5526150d9318",
+    "title": "The Top LLMs and AI Tools in 2024 So Far | by ODSC",
+    "snippet": "With 2024 surging along, the world of AI and the landscape being created by large language models continues to evolve in a dynamic manner.",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": "1 year ago",
+    "hash": "30334dcd3883ac8e99d8e4e762c4ef1a"
+  },
+  {
+    "url": "https://medium.com/@aniketbakre1291/understanding-large-language-models-llms-d1d16a1a5471",
+    "title": "💡 Understanding Large Language Models: Revolutionizing ...",
+    "snippet": "A large language model (LLM) is a type of artificial intelligence that is trained on massive amounts of text data to understand and generate human language.",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": "8 months ago",
+    "hash": "94abbe8b7996545fffc0f521db23c8b9"
+  },
+  {
+    "url": "https://medium.com/@tenyks_blogger/multimodal-large-language-models-mllms-transforming-computer-vision-76d3c5dd267f",
+    "title": "Multimodal Large Language Models (MLLMs) transforming ...",
+    "snippet": "GPT-4o (2024, OpenAI) · Claude 3.5 Sonnet (2024, Anthropic) · LLaVA (2023, University of Wisconsin-Madison) · Gemini 1.5 (2024, Google) · Qwen-VL ( ...",
+    "source_type": "news",
+    "credibility_score": 0.6,
+    "published_date": "11 months ago",
+    "hash": "82bdb4306d907967f8727a1c95d1b471"
+  },
+  {
+    "url": "https://pytorch.org/blog/2024-year-in-review/",
+    "title": "PyTorch Grows as the Dominant Open Source Framework ...",
+    "snippet": "PyTorch has now become the dominant deep learning framework for AI/ML. PyTorch leads the model training space with a 63% adoption rate.",
+    "source_type": "documentation",
+    "credibility_score": 1.0,
+    "published_date": "Dec 23, 2024",
+    "hash": "8d94a88155b139dd8c751f29e232536d"
+  },
+  {
+    "url": "https://pytorch.org/blog/pytorch-conference-2024-recap/",
+    "title": "PyTorch Conference 2024 Recap: On Fire",
+    "snippet": "Generative AI and LLMs: Many sessions focused on how PyTorch continues to evolve as a primary framework for Large Language Models and Generative ...",
+    "source_type": "documentation",
+    "credibility_score": 1.0,
+    "published_date": "Oct 2, 2024",
+    "hash": "ebfd6b7cbe4aed09c24e1e02bda2360c"
+  },
+  {
+    "url": "https://huggingface.co/docs/transformers/main/model_doc/olmo_1124",
+    "title": "OLMo November 2024",
+    "snippet": "The OLMo November 2024 model is a successor of the OLMo model, which was proposed in OLMo: Accelerating the Science of Language Models. The architectural ...",
+    "source_type": "documentation",
+    "credibility_score": 0.6,
+    "published_date": null,
+    "hash": "395ce36d1a67b36da66005945bcf6fec"
+  },
+  {
+    "url": "https://pytorch.org/blog/accelerating-large-language-models/",
+    "title": "Accelerating Large Language Models with ...",
+    "snippet": "We show how to use Accelerated PyTorch 2.0 Transformers and the newly introduced torch.compile() method to accelerate Large Language Models on the example of ...",
+    "source_type": "documentation",
+    "credibility_score": 1.0,
+    "published_date": "Apr 19, 2023",
+    "hash": "1315cd6192651a553a48371190382013"
+  },
+  {
+    "url": "https://blog.tensorflow.org/2024/11/mlsysbookai-principles-and-practices-of-machine-learning-systems-engineering.html",
+    "title": "MLSysBook.AI: Principles and Practices of Machine ...",
+    "snippet": "This blog post explores key ML systems engineering concepts from MLSysBook.ai and maps them to the TensorFlow ecosystem to provide practical insights.",
+    "source_type": "documentation",
+    "credibility_score": 1.0,
+    "published_date": "Nov 19, 2024",
+    "hash": "46b93ccb93e07f90cb02a8d32a0ad0d6"
+  },
+  {
+    "url": "https://pytorch.org/ai-powered-competitive-programming?__hstc=160532258.9c49e44b73bd3bee6fa385653ecd7c96.1745625603214.1745625603215.1745625603216.1&__hssc=160532258.1.1745625603217&__hsfp=1721781979",
+    "title": "AI-Powered Competitive Programming: My HackerCup ...",
+    "snippet": "He is currently working on applying the power of Large Language Models to Metaverse Avatar product experiences. Watch the recording now and ...",
+    "source_type": "documentation",
+    "credibility_score": 0.8,
+    "published_date": "Jan 24, 2025",
+    "hash": "15b846e9d1781b7b440d3ee157304b6f"
+  },
+  {
+    "url": "https://pytorch.org/announcements/page/2/",
+    "title": "Announcements",
+    "snippet": "Today, we're releasing torchchat, a library showcasing how to seamlessly and performantly run Llama 3, 3.1, and other large language models across laptop, ...",
+    "source_type": "documentation",
+    "credibility_score": 0.8,
+    "published_date": null,
+    "hash": "7c3fa5ee4b4ea7461fa0b18946a734a5"
+  },
+  {
+    "url": "https://docs.pytorch.org/blog/quantization-aware-training/",
+    "title": "Quantization-Aware Training for Large Language Models with ...",
+    "snippet": "In this blog, we present an end-to-end Quantization-Aware Training (QAT) flow for large language models in PyTorch. We demonstrate how QAT in PyTorch can ...",
+    "source_type": "documentation",
+    "credibility_score": 0.8,
+    "published_date": null,
+    "hash": "ad06e82ee158cf034c9ad8ea604c3b03"
+  },
+  {
+    "url": "https://pytorch.org/blog/accelerating-llm-inference/",
+    "title": "Accelerating LLM Inference with GemLite, TorchAO and ...",
+    "snippet": "SGLang is a fast serving framework for large language models and vision language models. It is known for its almost zero-overhead batch ...",
+    "source_type": "documentation",
+    "credibility_score": 0.8,
+    "published_date": "Jan 21, 2025",
+    "hash": "0c55967bdab5029aea829ad99c29fbf6"
+  },
+  {
+    "url": "https://pytorch.org/blog/vllm-joins-pytorch/",
+    "title": "vLLM Joins PyTorch Ecosystem: Easy, Fast, and Cheap ...",
+    "snippet": "We're thrilled to announce that the vLLM project has become a PyTorch ecosystem project, and joined the PyTorch ecosystem family!",
+    "source_type": "documentation",
+    "credibility_score": 1.0,
+    "published_date": "Dec 9, 2024",
+    "hash": "27b7381ace4144e8823594ea02e44875"
+  },
+  {
+    "url": "https://pytorch.org/blog/finetune-llms/",
+    "title": "Finetune LLMs on your own consumer hardware using ...",
+    "snippet": "We demonstrate how to finetune a 7B parameter model on a typical consumer GPU (NVIDIA T4 16GB) with LoRA and tools from the PyTorch and Hugging Face ecosystem.",
+    "source_type": "documentation",
+    "credibility_score": 1.0,
+    "published_date": "Jan 10, 2024",
+    "hash": "aa65afa08cf98e44a5d7c826d4f52f6a"
+  },
+  {
+    "url": "https://docs.pytorch.org/ai-powered-competitive-programming",
+    "title": "AI-Powered Competitive Programming: My HackerCup 2024 ...",
+    "snippet": "He is currently working on applying the power of Large Language Models to Metaverse Avatar product experiences. Watch the recording now and access Anton's ...",
+    "source_type": "documentation",
+    "credibility_score": 0.8,
+    "published_date": null,
+    "hash": "2c5d7ed7647b76b30e8475d4b9b37962"
+  },
+  {
+    "url": "https://www.tensorflow.org/tfx/tutorials/tfx/gpt2_finetuning_and_conversion",
+    "title": "TFX Pipeline for Fine-Tuning a Large Language Model (LLM)",
+    "snippet": "Streamlined Fine-Tuning and Conversion: The pipeline structure streamlines the fine-tuning and conversion processes of large language models, ...",
+    "source_type": "documentation",
+    "credibility_score": 1.0,
+    "published_date": "Jun 19, 2024",
+    "hash": "4bab8b373829c7cad2317e9eee1d1f93"
+  },
+  {
+    "url": "https://pytorch.org/blog/executorch-beta/",
+    "title": "ExecuTorch Beta: On-Device AI and LLMs, Stability, and ...",
+    "snippet": "ExecuTorch has achieved Beta status with the release of v0.4, providing stable APIs and runtime, as well as extensive kernel coverage.",
+    "source_type": "documentation",
+    "credibility_score": 1.0,
+    "published_date": "Oct 24, 2024",
+    "hash": "bdee4e4ed77245e2eeababd749f9bfc0"
+  },
+  {
+    "url": "https://pytorch.org/community-stories",
+    "title": "Community Stories",
+    "snippet": "AI21 Labs uses machine learning to develop language models focused on understanding meaning, and in 2021 it set a goal to train the recently released Jurassic- ...",
+    "source_type": "documentation",
+    "credibility_score": 0.8,
+    "published_date": null,
+    "hash": "895b38880b43a4b806119181e809561f"
+  }
+]

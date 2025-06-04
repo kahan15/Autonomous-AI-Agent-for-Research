@@ -1,0 +1,87 @@
+agent:
+  name: "Research Agent"
+  version: "1.0.0"
+  description: "An autonomous AI research agent"
+  
+  sources:
+    web:
+      enabled: true
+      max_results: 15
+      min_credibility_score: 0.6
+      categories:
+        - academic
+        - tech_blog
+        - news
+        - documentation
+
+  source_weights:
+    academic: 1.5
+    tech_blog: 1.2
+    news: 1.0
+    documentation: 1.3
+
+  validation:
+    min_overall_credibility: 0.6
+    min_diversity_score: 0.4
+    required_source_types: 2
+    max_source_age_days: 365
+
+  workflow:
+    reflection_threshold: 0.7
+    min_sources: 5
+    max_sources: 15
+    retry_attempts: 3
+    reflection_interval: 5
+
+  security:
+    allowed_domains:
+      - "arxiv.org"
+      - "medium.com"
+      - "towardsdatascience.com"
+      - "ai.googleblog.com"
+      - "openai.com"
+      - "huggingface.co"
+      - "github.com"
+      - "paperswithcode.com"
+      - "distill.pub"
+      - "research.google"
+      - "deepmind.com"
+      - "microsoft.com/research"
+      - "blogs.nvidia.com"
+      - "pytorch.org"
+      - "tensorflow.org"
+    request_timeout_seconds: 30
+    max_retries: 3
+    rate_limit_delay: 2
+    user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
+  logging:
+    level: "INFO"
+    format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+    file: "logs/research_agent.log"
+    max_size_mb: 10
+    backup_count: 5
+
+  data:
+    base_dir: "data"
+    cache_dir: "cache"
+    report_dir: "reports"
+    max_cache_age_hours: 24
+
+output:
+  report_dir: "reports"
+  formats:
+    - "markdown"
+    - "json"
+  visualization:
+    enabled: true
+    types:
+      - "charts"
+      - "graphs"
+      - "tables"
+
+  max_retries: 3
+  retry_delay_seconds: 5
+  restricted_operations:
+    - "system_commands"
+    - "file_deletion" 
